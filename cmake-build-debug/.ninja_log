@@ -1,0 +1,8 @@
+# ninja log v6
+14	129	7413031809983361	src/learn/CMakeFiles/learn.dir/main.cpp.obj	c8852be3d707cab2
+6	593	7413031809888151	src/learn/CMakeFiles/learn.dir/class1/class1.cpp.obj	58835ace83bbb543
+595	734	7413031815774149	src/learn/learn.exe	ee68d459c013360b
+4	16	7413033332527965	clean	205e14d5e4ada412
+13	121	7413079569803884	src/learn/CMakeFiles/learn.dir/main.cpp.obj	c8852be3d707cab2
+8	531	7413079569753525	src/learn/CMakeFiles/learn.dir/class1/class1.cpp.obj	58835ace83bbb543
+532	647	7413079574982957	src/learn/learn.exe	ee68d459c013360b

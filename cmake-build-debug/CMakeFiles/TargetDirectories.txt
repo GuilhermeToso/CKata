@@ -1,0 +1,6 @@
+C:/Users/ASSISTENCIA/Trabalho/CKata/cmake-build-debug/CMakeFiles/CKata.dir
+C:/Users/ASSISTENCIA/Trabalho/CKata/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASSISTENCIA/Trabalho/CKata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ASSISTENCIA/Trabalho/CKata/cmake-build-debug/src/learn/CMakeFiles/learn.dir
+C:/Users/ASSISTENCIA/Trabalho/CKata/cmake-build-debug/src/learn/CMakeFiles/edit_cache.dir
+C:/Users/ASSISTENCIA/Trabalho/CKata/cmake-build-debug/src/learn/CMakeFiles/rebuild_cache.dir
